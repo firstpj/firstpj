@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Collins Akorda
-- 🌱 Part-time undergraduate, (AS) degree in CS. Uopeople.
-- 🌱 I’m currently learning  Full-Stack Web Development @microverse
-- ⚙️ My stack: Python, C#, HTML/CSS , JavaScript , React/Redux, Ruby/Rails
+- 👋 Hi, I’m Collins A. Akorda
+- 🌱 Part-time undergraduate, (BS) degree in CS. Uopeople.
+- 🌱 Completed Full-Stack Web Development @microverse
+- ⚙️ My stack: Python, C#, HTML/CSS , JavaScript , React/Redux, Java,
+- Dada base, Ruby/Rails.
 - 📫 How to reach me akpocollins2005@gmail.com
 
 <!---
