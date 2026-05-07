@@ -3,6 +3,7 @@
 
 💻 Full-Stack Software Developer.
 
+
 I build practical web applications that solve real-world problems,
 
 especially for small businesses and everyday users.
@@ -10,6 +11,7 @@ especially for small businesses and everyday users.
 I enjoy working with modern JavaScript tools and creating clean,
 
 user-friendly interfaces.
+
 
 
 🚀 About Me:
@@ -27,13 +29,37 @@ user-friendly interfaces.
 🧰 Tech Stack:
 
 
-Frontend: HTML, CSS, JavaScript, React, Redux
+Frontend:
 
-Backend: Node.js (learning/expanding)
+HTML,
 
-Database: MongoDB / SQL (basic knowledge)
+CSS,
 
-Tools: Git, GitHub, VS Code.
+JavaScript,
+
+React,
+
+Redux
+
+
+Backend:
+
+Node.js (learning/expanding)
+
+Database:
+
+MongoDB
+
+SQL (basic knowledge)
+
+
+Tools:
+
+Git,
+
+GitHub,
+
+VS Code.
 
 
 📌 Featured Projects
@@ -48,9 +74,23 @@ that helps users track daily activities,
 
 set goals, and stay productive.
 
-Features: Add, edit, and delete tasks
 
-Tech: JavaScript (ES6), HTML, CSS.
+Features:
+
+Add tasks,
+
+Edit tasks,
+
+Delete tasks
+
+Tech Used:
+
+
+JavaScript (ES6),
+
+HTML,
+
+CSS.
 
 
 📊 Finance Dashboard UI
@@ -60,9 +100,18 @@ A clean dashboard interface designed to visualize financial data,
 
 in a simple and user-friendly way.
 
-Features: Responsive layout, structured UI components
+Features:
 
-Tech: HTML, CSS.
+Responsive layout,
+
+structured UI components
+
+
+Tech Used:
+
+HTML,
+
+CSS.
 
 
 🏆 Leaderboard System
@@ -70,9 +119,18 @@ Tech: HTML, CSS.
 
 A web app that allows multiple users to submit scores and view rankings dynamically.
 
-Features: Score submission, ranking system
+Features:
 
-Tech: JavaScript, API integration.
+Score submission,
+
+ranking system
+
+
+Tech Used:
+
+JavaScript,
+
+API integration.
 
 
 📈 Currently Learning
@@ -85,6 +143,7 @@ Building real-world business applications.
 
 
 🎯 Goals
+
 
 Build scalable applications for small businesses
 
