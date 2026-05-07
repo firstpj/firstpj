@@ -1,7 +1,7 @@
-👋 Hi, I'm Collins A. Akorda.
+##👋 Hi, I'm Collins A. Akorda.
 
 
-💻 Full-Stack Software Developer.
+##💻 Full-Stack Software Developer.
 
 
 I build practical web applications that solve real-world problems,
@@ -14,7 +14,7 @@ user-friendly interfaces.
 
 
 
-🚀 About Me:
+##🚀 About Me:
 
 
 🎓 Part-time Computer Science undergraduate
