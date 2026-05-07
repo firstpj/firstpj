@@ -33,33 +33,33 @@ user-friendly interfaces.
 
 * HTML,
 
-# CSS,
+* CSS,
 
-JavaScript,
+* JavaScript,
 
-React,
+* React,
 
-Redux
+* Redux
 
 
 ## Backend:
 
-Node.js (learning/expanding)
+* Node.js (learning/expanding)
 
 ## Database:
 
-MongoDB
+* MongoDB
 
-SQL (basic knowledge)
+* SQL (basic knowledge)
 
 
 ## Tools:
 
-Git,
+* Git,
 
-GitHub,
+* GitHub,
 
-VS Code.
+* VS Code.
 
 
 ## 📌 Featured Projects
@@ -77,20 +77,20 @@ set goals, and stay productive.
 
 ## Features:
 
-Add tasks,
+* Add tasks,
 
-Edit tasks,
+* Edit tasks,
 
-Delete tasks
+* Delete tasks
 
 ## Tech Used:
 
 
-JavaScript (ES6),
+* JavaScript (ES6),
 
-HTML,
+* HTML,
 
-CSS.
+* CSS.
 
 
 ## 📊 Finance Dashboard UI
@@ -109,9 +109,9 @@ structured UI components
 
 ## Tech Used:
 
-HTML,
+* HTML,
 
-CSS.
+* CSS.
 
 
 ## 🏆 Leaderboard System
@@ -128,9 +128,9 @@ ranking system
 
 ## Tech Used:
 
-JavaScript,
+* JavaScript,
 
-API integration.
+* API integration.
 
 
 ## 📈 Currently Learning
