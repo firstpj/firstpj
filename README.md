@@ -17,13 +17,13 @@ user-friendly interfaces.
 ## 🚀 About Me:
 
 
-🎓 Part-time Computer Science undergraduate
+* 🎓 Part-time Computer Science undergraduate
 
-💡 Passionate about building useful and scalable applications
+* 💡 Passionate about building useful and scalable applications
 
-🛠️ Background in electrical/electronics repair and digital services
+* 🛠️ Background in electrical/electronics repair and digital services
 
-📍 Based in West Africa.
+* 📍 Based in West Africa.
 
 
 ## 🧰 Tech Stack:
@@ -102,9 +102,9 @@ in a simple and user-friendly way.
 
 ## Features:
 
-Responsive layout,
+* Responsive layout,
 
-structured UI components
+* structured UI components
 
 
 ## Tech Used:
@@ -119,11 +119,11 @@ structured UI components
 
 A web app that allows multiple users to submit scores and view rankings dynamically.
 
-## Features:
+## Features
 
-Score submission,
+*Score submission,
 
-ranking system
+* Ranking system
 
 
 ## Tech Used:
@@ -135,21 +135,21 @@ ranking system
 
 ## 📈 Currently Learning
 
-Advanced React patterns
+* Advanced React patterns
 
-Backend development with Node.js
+* Backend development with Node.js
 
-Building real-world business applications.
+* Building real-world business applications.
 
 
 ## 🎯 Goals
 
 
-Build scalable applications for small businesses
+* Build scalable applications for small businesses
 
-Launch a digital + physical tech service business
+* Launch a digital + physical tech service business
 
-Contribute to open-source projects.
+* Contribute to open-source projects.
 
 
 ## 📫 Contact Me
