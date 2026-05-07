@@ -1,7 +1,10 @@
-👋 Hi, I'm Collins A. Akorda
+👋 Hi, I'm Collins A. Akorda.
 
-💻 Full-Stack Software Developer
-I build practical web applications that solve real-world problems, especially for small businesses and everyday users. I enjoy working with modern JavaScript tools and creating clean, user-friendly interfaces.
+💻 Full-Stack Software Developer.
+I build practical web applications that solve real-world problems,
+especially for small businesses and everyday users.
+I enjoy working with modern JavaScript tools and creating clean,
+user-friendly interfaces.
 
 
 🚀 About Me:
@@ -22,9 +25,10 @@ Tools: Git, GitHub, VS Code.
 
 📌 Featured Projects
 
-📝 Todo List App
+📝 Todo List App:
 
-A simple and effective task management application that helps users track daily activities, set goals, and stay productive.
+A simple and effective task management application that helps users track daily activities,
+set goals, and stay productive.
 Features: Add, edit, and delete tasks
 Tech: JavaScript (ES6), HTML, CSS.
 
