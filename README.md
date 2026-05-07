@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Collins A. Akorda.
 
 
-## 💻 Full-Stack Software Developer.
+💻 Full-Stack Software Developer.
 
 
 I build practical web applications that solve real-world problems,
@@ -14,7 +14,7 @@ user-friendly interfaces.
 
 
 
-##🚀 About Me:
+## 🚀 About Me:
 
 
 🎓 Part-time Computer Science undergraduate
@@ -26,14 +26,14 @@ user-friendly interfaces.
 📍 Based in West Africa.
 
 
-🧰 Tech Stack:
+## 🧰 Tech Stack:
 
 
-Frontend:
+## Frontend:
 
-HTML,
+* HTML,
 
-CSS,
+# CSS,
 
 JavaScript,
 
@@ -42,18 +42,18 @@ React,
 Redux
 
 
-Backend:
+## Backend:
 
 Node.js (learning/expanding)
 
-Database:
+## Database:
 
 MongoDB
 
 SQL (basic knowledge)
 
 
-Tools:
+## Tools:
 
 Git,
 
@@ -62,10 +62,10 @@ GitHub,
 VS Code.
 
 
-📌 Featured Projects
+## 📌 Featured Projects
 
 
-📝 Todo List App:
+## 📝 Todo List App:
 
 
 A simple and effective task management application.
@@ -75,7 +75,7 @@ that helps users track daily activities,
 set goals, and stay productive.
 
 
-Features:
+## Features:
 
 Add tasks,
 
@@ -83,7 +83,7 @@ Edit tasks,
 
 Delete tasks
 
-Tech Used:
+## Tech Used:
 
 
 JavaScript (ES6),
@@ -93,47 +93,47 @@ HTML,
 CSS.
 
 
-📊 Finance Dashboard UI
+## 📊 Finance Dashboard UI
 
 
 A clean dashboard interface designed to visualize financial data,
 
 in a simple and user-friendly way.
 
-Features:
+## Features:
 
 Responsive layout,
 
 structured UI components
 
 
-Tech Used:
+## Tech Used:
 
 HTML,
 
 CSS.
 
 
-🏆 Leaderboard System
+## 🏆 Leaderboard System
 
 
 A web app that allows multiple users to submit scores and view rankings dynamically.
 
-Features:
+## Features:
 
 Score submission,
 
 ranking system
 
 
-Tech Used:
+## Tech Used:
 
 JavaScript,
 
 API integration.
 
 
-📈 Currently Learning
+## 📈 Currently Learning
 
 Advanced React patterns
 
@@ -142,7 +142,7 @@ Backend development with Node.js
 Building real-world business applications.
 
 
-🎯 Goals
+## 🎯 Goals
 
 
 Build scalable applications for small businesses
@@ -152,7 +152,7 @@ Launch a digital + physical tech service business
 Contribute to open-source projects.
 
 
-📫 Contact Me
+## 📫 Contact Me
 
 Email: akpocollins2005@gmail.com
 
