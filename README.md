@@ -48,8 +48,7 @@ I enjoy working with modern JavaScript tools and creating clean, user-friendly i
 
 ### 📝 Todo List App
 
-A simple and effective task management application that helps users track daily activities, set goals, and stay productive.
-
+A simple and user-friendly to-do list application that helps users manage daily activities and stay productive. Users can add, edit, and remove completed tasks efficiently.
 #### Features
 
 * Add tasks
