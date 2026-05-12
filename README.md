@@ -70,6 +70,9 @@ A simple and user-friendly to-do list application that helps users manage daily 
 
 A clean dashboard interface designed to visualize financial data in a simple and user-friendly way.
 
+💡 Live Demo
+https://firstpj.github.io/Finance-Dashboard-UI/
+
 #### Features
 
 * Responsive layout
