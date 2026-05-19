@@ -121,7 +121,7 @@ A web app that allows multiple users to submit scores and view rankings dynamica
 
 * Email: [akpocollins2005@gmail.com](mailto:akpocollins2005@gmail.com)
 * GitHub: https://github.com/firstpj
-
+* https://firstpj.github.io/Portfolio-Mobile-first-set-up/
 ---
 
 ⭐ Feel free to check out my projects and connect with me!
