@@ -13,7 +13,7 @@ I enjoy working with modern JavaScript tools and creating clean, user-friendly i
 * 🎓 Part-time Computer Science undergraduate
 * 💡 Passionate about building useful and scalable applications
 * 🛠️ Background in electrical/electronics repair and digital services
-* 📍 Based in West Africa
+* 📍 Based in Nigeria, West Africa
 
 ---
 
